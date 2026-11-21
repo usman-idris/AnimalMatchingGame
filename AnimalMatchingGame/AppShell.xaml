@@ -1,0 +1,11 @@
+<Shell
+    x:Class="AnimalMatchingGame.AppShell"
+    xmlns:local="clr-namespace:AnimalMatchingGame"
+    Title="AnimalMatchingGame">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>
