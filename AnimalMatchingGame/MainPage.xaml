@@ -1,12 +1,16 @@
-﻿<ContentPage x:Class="AnimalMatchingGame.MainPage">
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalMatchingGame.MainPage">
 
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
 
-            <Button x:Name="PlayAgainButton" Text="Play again?" FontSize="Large" Clicked="PlayAgainButton_Clicked" />
-            <Label x:Name="TimeElapsedLabel" Text="Time Elapsed: 0.0 seconds" FontSize="Large" />
+            <Button x:Name="PlayAgainButton" Text="Start game" FontSize="Large" Clicked="PlayAgainButton_Clicked" />
+            <Label x:Name="TimeRemainingLabel" Text="Time remaining: 01:00" FontSize="Large" />
+            <Label x:Name="BestTimeLabel" Text="Best time: --" FontSize="Large" />
+            <Label x:Name="GameStatusLabel" FontSize="Medium" />
 
             <FlexLayout x:Name="AnimalButtons" Wrap="Wrap" MaximumWidthRequest="400" IsVisible="False">
                 <Button HeightRequest="100" WidthRequest="100" FontSize="60" BackgroundColor="LightBlue" BorderColor="Black" BorderWidth="1" Clicked="Button_Clicked" />
