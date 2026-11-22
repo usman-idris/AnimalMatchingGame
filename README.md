@@ -4,6 +4,16 @@ A cross-platform animal memory game built with **.NET MAUI and C#**. Memorize th
 
 The original project idea was developed while learning from *Head First C#, 5th Edition*. This repository extends that learning project with randomized rounds, a timed challenge, saved personal bests, a preview phase, and spoken animal calls.
 
+## Screenshots
+
+**Game start screen**
+
+![Animal Matching Game start screen](docs/images/game-start-screen.png)
+
+**Gameplay preview:** The shuffled animals are briefly revealed before the timed round begins.
+
+![Animal Matching Game showing the board preview](docs/images/gameplay-preview.png)
+
 ## Features
 
 - **Randomized rounds:** Each game chooses eight animal types from a pool of 20, creates two cards for each, and shuffles their positions. The next round avoids repeating the previous round's animal lineup.
