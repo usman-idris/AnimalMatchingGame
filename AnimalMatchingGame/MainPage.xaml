@@ -8,7 +8,7 @@
             <Button x:Name="PlayAgainButton" Text="Play again?" FontSize="Large" Clicked="PlayAgainButton_Clicked" />
             <Label x:Name="TimeElapsedLabel" Text="Time Elapsed: 0.0 seconds" FontSize="Large" />
 
-            <FlexLayout x:Name="AnimalButtons" Wrap="Wrap" MaximumWidthRequest="400">
+            <FlexLayout x:Name="AnimalButtons" Wrap="Wrap" MaximumWidthRequest="400" IsVisible="False">
                 <Button HeightRequest="100" WidthRequest="100" FontSize="60" BackgroundColor="LightBlue" BorderColor="Black" BorderWidth="1" Clicked="Button_Clicked" />
                 <Button HeightRequest="100" WidthRequest="100" FontSize="60" BackgroundColor="LightBlue" BorderColor="Black" BorderWidth="1" Clicked="Button_Clicked" />
                 <Button HeightRequest="100" WidthRequest="100" FontSize="60" BackgroundColor="LightBlue" BorderColor="Black" BorderWidth="1" Clicked="Button_Clicked" />
