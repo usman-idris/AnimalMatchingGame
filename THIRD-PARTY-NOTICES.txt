@@ -1,0 +1,88 @@
+Third-party notices
+===================
+
+Head First C#, 5th Edition
+-------------------------
+
+The animal matching exercise in Chapter 1 informed this project. The
+companion repository licenses its example code and associated graphics under
+MIT. Its original notice follows.
+
+Source
+https://github.com/head-first-csharp/fifth-edition/tree/main/Code/Chapter_1/AnimalMatchingGame
+License
+https://github.com/head-first-csharp/fifth-edition/blob/main/LICENSE
+
+MIT License
+
+Copyright (c) 2023 Andrew Stellman and Jennifer Greene
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This license covers code and assets used by that code. 
+Excerpts from the book "Head First C#" are excluded from this license.
+
+.NET MAUI
+---------
+
+The project uses .NET MAUI starter template material, including the default
+app icon, splash screen, and .NET bot image. The .NET MAUI license follows.
+The Open Sans fonts carry their own license, documented below.
+
+Source
+https://github.com/dotnet/maui/tree/main/src/Templates/src/templates/maui-mobile
+License
+https://github.com/dotnet/maui/blob/main/LICENSE.txt
+
+The MIT License (MIT)
+
+Copyright (c) .NET Foundation and Contributors
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Open Sans
+---------
+
+AnimalMatchingGame/Resources/Fonts/OpenSans-Regular.ttf
+Digitized data copyright © 2010-2011, Google Corporation.
+
+AnimalMatchingGame/Resources/Fonts/OpenSans-Semibold.ttf
+Digitized data copyright © 2011, Google Corporation.
+
+Both bundled font files identify themselves as version 1.10 and declare the
+Apache License, Version 2.0. The full license text is in
+LICENSES/Apache-2.0.txt.

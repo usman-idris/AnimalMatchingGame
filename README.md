@@ -168,3 +168,9 @@ The project uses .NET MAUI controls and platform APIs directly. The best time us
 ## Acknowledgements
 
 The learning project was inspired by the animal matching exercise in *Head First C#, 5th Edition*. This repository is a personal extension of that exercise using .NET MAUI. It is not an official companion app to the book.
+
+## License
+
+The original contributions to this project are available under the [MIT License](LICENSE).
+
+See [Third-party notices](THIRD-PARTY-NOTICES.txt) for the *Head First C#* example, the .NET MAUI template, and the bundled Open Sans fonts. The fonts use the [Apache License, Version 2.0](LICENSES/Apache-2.0.txt). Include these license and notice files when redistributing the app.
